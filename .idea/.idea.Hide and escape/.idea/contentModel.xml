@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gitenax\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gitenax\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Hide and escape.1858804769.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Hide and escape" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="FieldOfViewEditor.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Camera" t="Include">
+            <e p="TrackingCamera.cs" t="Include" />
+          </e>
+          <e p="EnemyCore" t="Include">
+            <e p="Enemy.cs" t="Include" />
+            <e p="FieldOfView.cs" t="Include" />
+            <e p="Lurking.cs" t="Include" />
+          </e>
+          <e p="GameCore" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="Level.cs" t="Include" />
+          </e>
+          <e p="Input" t="Include">
+            <e p="InputActions.cs" t="Include" />
+          </e>
+          <e p="Interactable" t="Include">
+            <e p="Door.cs" t="Include" />
+            <e p="InteractableObject.cs" t="Include" />
+            <e p="Key.cs" t="Include" />
+            <e p="LaserFence.cs" t="Include" />
+            <e p="LevelTrigger.cs" t="Include" />
+            <e p="PushButton.cs" t="Include" />
+          </e>
+          <e p="PlayerCore" t="Include">
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="CompleteLevelMenu.cs" t="Include" />
+            <e p="EndGameMenu.cs" t="Include" />
+            <e p="GameFinishMenu.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="MenuBase.cs" t="Include" />
+            <e p="MenuButton.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Hide and escape.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
